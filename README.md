@@ -1,2 +1,4 @@
 # hello-world
-first repository
+hullo children
+they call me supri in da streets
+dont trip
